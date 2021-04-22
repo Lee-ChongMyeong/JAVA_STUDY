@@ -1,0 +1,15 @@
+package day06;
+
+import java.util.Scanner;
+
+public class ParseNumber1 {
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("숫자로 구성된 문자열을 입력해주세요.");
+		String s1 = scan.nextLine();
+		
+		
+	}
+}

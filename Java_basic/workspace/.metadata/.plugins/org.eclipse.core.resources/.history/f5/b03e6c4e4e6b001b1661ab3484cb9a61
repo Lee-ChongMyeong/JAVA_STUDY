@@ -1,0 +1,8 @@
+package day06;
+
+public class ParseNumber1 {
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in)
+	}
+}
